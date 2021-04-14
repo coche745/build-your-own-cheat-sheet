@@ -10,6 +10,6 @@ This is a reference for common CSS properties and how they work. It includes a d
 + HTML
 + CSS
 ## Setup
-To visit the website, go to
+To visit the website, go to https://coche745.github.io/build-your-own-cheat-sheet/
 ## Status
 Project is: finished
