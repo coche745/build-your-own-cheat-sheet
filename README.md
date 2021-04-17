@@ -5,7 +5,7 @@
 + Setup
 + Status
 ## General Info
-This is a reference for common CSS properties and how they work. It includes a description and examples of their syntax.
+This is a website that references common CSS properties and how they work. It includes a description and examples of their syntax.
 ## Technologies
 + HTML
 + CSS
